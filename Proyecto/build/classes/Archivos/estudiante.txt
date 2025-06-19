@@ -1,0 +1,6 @@
+Id: 55 | Qwerty | Pop | ala@gmail.com | 874-96-96 | Arte | 2 |
+Id: 0 | Marco | Rodriguez | marko@homr.com | 8712-989-96 | Ingles | 2 |
+Id: 11 | Ale | Rojas | ale@gmai.com | 7845-96-87 | Medicina | 2 |
+Id: 22 | Juan | Lagos | lagos@gmail.com | 7845-98-52 | Deports | 1 |
+Id: 1 | Marco | Rodriguez | markocr@gmail.com | 8712-97-96 | Informatica | Por Horas |
+Id: 1 | Aleida | Rivera | ale@gmail.com | 5012-98-74 | Ciencias | Tiempo Completo |Id: 99 | Marco | Rodriguez | markocr@hotmail.com | 8712-97-68 | Sistemas | 2 |
